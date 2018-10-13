@@ -1,6 +1,6 @@
 {
   "name": "@chezearth/bagpipes",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Less code, more flow. Let's dance!",
   "main": "lib/index.js",
   "scripts": {
