@@ -6,7 +6,7 @@
 
 >Note
 >----
->This is a fork of [apigee-127/bagpipes](https://github.com/apigee-127/bagpipes) and the text below is entirely his. I have only updated some dependencies to remove vulnerabilities that were identified by NPM's audit. Travis builds successfully for Node 4 (but not earlier verions of Node or io.js). While the tests have passed and the package seems to work for me, the new dependencies may have broken something that I haven't found yet.
+>This is a fork of [apigee-127/bagpipes](https://github.com/apigee-127/bagpipes) and the text below is entirely his. I have only updated some dependencies to remove vulnerabilities that were identified by NPM's audit. Travis builds successfully for Node 4, 6, 8 and 10 (but not necessarily earlier verions of Node or io.js). While the tests have passed and the package seems to work for me, the new dependencies may have broken something that I haven't found yet.
 >[Charles Rethman](https://github.com/chezearth)
 
 
