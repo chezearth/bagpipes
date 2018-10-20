@@ -4,6 +4,12 @@
 
 [![Coverage Status](https://coveralls.io/repos/github/apigee-127/bagpipes/badge.svg?branch=master)](https://coveralls.io/github/apigee-127/bagpipes?branch=master)
 
+>Note
+>----
+>This is a fork of [apigee-127/bagpipes](https://github.com/apigee-127/bagpipes) and the text below is entirely his. I have only updated some dependencies to remove vulnerabilities that were identified by NPM's audit. Travis builds successfully for Node 4 (but not earlier verions of Node or io.js). While the tests have passed and the package seems to work for me, the new dependencies may have broken something that I haven't found yet.
+>[Charles Rethman](https://github.com/chezearth)
+
+
 
 ### NOTE: THIS IS PRE-RELEASE SOFTWARE - SUBJECT TO CHANGE ###
 
